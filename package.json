@@ -1,0 +1,13 @@
+{
+  "name": "pidigits",
+  "version": "1.0.0",
+  "description": "Group Pi digits in different sets to assist with memorization",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Shamanth",
+  "license": "ISC"
+}
